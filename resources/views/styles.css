@@ -1,0 +1,17 @@
+.card{
+    margin-top: 40px;
+    background-color: #fff;
+    color: #333;
+}
+
+.form-group{
+    margin-bottom: 20px;
+}
+.btn-add-foto{
+    background-color: #FFA500;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
